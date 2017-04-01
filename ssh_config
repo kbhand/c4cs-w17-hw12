@@ -1,0 +1,9 @@
+Host kbhand
+	HostName login.engin.umich.edu
+	User kbhand
+	Compression yes
+
+Host local
+	HostName 35.1.177.234
+	User karthikbhandarkar
+	IdentityFile /home/karthik/.ssh/id_rsa
